@@ -149,3 +149,4 @@ for i in range(100):
 
 # 1. git initで初期化
 # 2. git remote add origin {URL}で紐付け
+# 1st commit
